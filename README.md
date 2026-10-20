@@ -26,8 +26,8 @@ The folder structure is organized by platform and topic of course:
 
 ## 📈 Goals
 
-*   [ ] Complete the freeCodeCamp 'Responsive Web Design' certification.
-*   [ ] Complete the freeCodeCamp 'JavaScript' certification.
+*   [ ] Complete the freeCodeCamp *'Responsive Web Design'* certification.
+*   [ ] Complete the freeCodeCamp *'JavaScript'* certification.
 *   [ ] Complete the *'The Complete Full-Stack Web Development Bootcamp'* course in Udemy.
 *   [ ] Maintain a 30-day streak on Coddy.tech doing daily challenges.
-*   [ ] Complete Frontend for Beginners certificate course in Sololearn covering concept basics.
+*   [ ] Complete *'Frontend for Beginners'* certificate course in Sololearn covering concept basics.
