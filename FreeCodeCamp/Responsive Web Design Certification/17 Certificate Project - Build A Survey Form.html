@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Survey Form</title>
+  </head>
+  <body>
+    <h1 id="title">Shopping Survey Form</h1>
+    <p id="description">Thank you for taking the time to help us improve the platform</p>
+    <form id="survey-form" action="">
+      <fieldset>
+        <p>
+        <label for="name" id="name-label">Name</label>
+        <input type="text" id="name" name="name" placeholder="Enter your name" required/>
+        </p>
+        <p>
+        <label for="email" id="email-label">Email</label>
+        <input type="email" id="email" name="email" placeholder="Enter your email" required />
+        </p>
+        <p>
+        <label for="number" id="number-label">Age(optional) </label>
+        <input type="number" id="number" name="number" min="15" max="100" placeholder="Age"/>
+        </p>
+        <p>
+        <label for="dropdown">What is your current employment status? </label>
+        <select id="dropdown">
+          <option selected disabled value="">Select status</option>
+          <option value="student">Student</option>
+          <option value="business">Business</option>
+          <option value="professional">Professional</option>
+          <option value="unemployed">Unemployed</option>
+          <option value="prefer-not-to-say">Prefer not to say</option>
+        </select>
+        </p>
+        <p>Would you recommend our website to others?</p>
+        <input type="radio" id="yes-option" name="recommend" value="yes">
+        <label for="yes-option"> Yes </label>
+        <input type="radio" id="no-option" name="recommend" value="no">
+        <label for="no-option"> No </label>
+        <input type="radio" id="maybe-option" name="recommend" value="maybe">
+        <label for="maybe-option"> Maybe </label>
+        <p>What would you like us to improve? (Check all that apply)</p>
+        <input type="checkbox" name="improve" value="aesthetic" id="aesthetic"/>
+        <label for="aesthetic">Aesthetic</label>
+        <input type="checkbox" name="improve" value="features" id="features"/>
+        <label for="features">Features</label>
+        <input type="checkbox" name="improve" value="price" id="price"/>
+        <label for="price">Price</label>
+        <input type="checkbox" name="improve" value="updates" id="updates"/>
+        <label for="updates">Updates</label>
+        <input type="checkbox" name="improve" value="availability" id="availability"/>
+        <label for="availability">Availability</label>
+        <input type="checkbox" name="improve" value="accessibility" id="accessibility"/>
+        <label for="accessibility">Accessibility</label>
+        <p>
+        <label for="comments">Additional Comments:</label><br>
+        <textarea cols="30" rows="10" id="comments" name="comments"></textarea><br>
+        <button type="submit" id="submit">Submit</button>
+        </p>
+      </fieldset>
+    </form>
+  </body>
+</html>
