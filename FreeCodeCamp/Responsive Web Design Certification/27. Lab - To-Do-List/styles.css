@@ -1,0 +1,34 @@
+h1{
+  text-align:center;
+}
+a{
+  text-decoration:none;
+}
+a:link{
+    color:red;
+}
+a:visited{
+  color:orange;
+}
+a:hover{
+  color:blue;
+}
+a:focus{
+  outline: 2px solid green;
+}
+a:active{
+  color:purple;
+}
+
+.todo-list{
+  list-style-type:none;
+  width: 50%;
+  margin: auto;
+}
+
+.todo-list li{
+  background-color: #E0F8C7;
+  padding:10px;
+  margin-bottom:10px;
+  border-radius:10px;
+}
