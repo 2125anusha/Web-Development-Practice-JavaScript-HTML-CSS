@@ -30,5 +30,6 @@ The folder structure is organized by platform and topic of course:
 *   [ ] Complete the freeCodeCamp [*'JavaScript'*](https://www.freecodecamp.org/learn/javascript-v9/) certification.
 *   [ ] Complete the [*'The Complete Full-Stack Web Development Bootcamp, by Angela Yu'*](https://www.udemy.com/course/the-complete-web-development-bootcamp/) course in Udemy.
 *   [ ] Complete [*'Frontend for Beginners'*](https://www.sololearn.com/en/learn/courses/angular-developer) certificate course in Sololearn covering concept basics.
+*   [ ] 🔜 Complete the [*JavaScript Fundamentals certificate*](https://coddy.tech/journeys/javascript/fundamentals) from Coddy.tech.
 *   [ ] Complete [*A1 Professional Spanish Certification*](https://www.freecodecamp.org/learn/a1-professional-spanish/) from freeCodeCamp.
 *   [X] Maintain a 30-day streak on [*Coddy.tech*](https://coddy.tech/user/2125anusha) doing daily challenges.
